@@ -95,6 +95,7 @@ El desarrollo aplicará los siguientes conceptos:
 
 La estructura del proyecto se organizará progresivamente para separar las responsabilidades del sistema y facilitar su mantenimiento:
 
+```text
 SoftwareFJ-Core/
 │
 ├── README.md
@@ -114,3 +115,4 @@ SoftwareFJ-Core/
 ├── tests/
 │
 └── logs/
+```
