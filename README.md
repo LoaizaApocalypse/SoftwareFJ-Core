@@ -4,11 +4,18 @@ SoftwareFJ-Core
 
 ---
 
-**#Sistema Integral de Gestión de Clientes, Servicios y Reservas**
+<h1 align="center">
+  SoftwareFJ-Core
+</h1>
+
+<h2 align="center">
+  Sistema Integral de Gestión de Clientes, Servicios y Reservas
+</h2>
 
 <p align="center">
-  **Proyecto académico colaborativo | UNAD**
+  Proyecto académico colaborativo | UNAD
 </p>
+
 
 **🚀 Presentación del proyecto**
 
@@ -18,9 +25,11 @@ El proyecto consiste en diseñar e implementar un sistema integral de gestión p
 
 La solución será desarrollada en Python, aplicando los principios y fundamentos de la programación orientada a objetos, junto con técnicas de manejo de excepciones que permitan construir una aplicación modular, robusta y confiable.
 
+
 **🧭 Objetivo del proyecto**
 
 Desarrollar un sistema informático que permita gestionar clientes, ofrecer diferentes modalidades de servicios y administrar sus respectivas reservas, implementando estructuras orientadas a objetos, validaciones, tratamiento de errores y registro de eventos para garantizar el correcto funcionamiento de la aplicación.
+
 
 **🗺️ Alcance funcional**
 
@@ -62,6 +71,7 @@ También contempla las siguientes funcionalidades:
 
 - Simulación y validación de al menos diez operaciones completas.
 
+
 **🏗️ Fundamentos técnicos**
 
 El desarrollo aplicará los siguientes conceptos:
@@ -79,6 +89,7 @@ El desarrollo aplicará los siguientes conceptos:
 *6. Registro de eventos:* almacenamiento de información relevante para facilitar el seguimiento de las operaciones.
 
 *7. Restricción técnica:* el sistema administrará los datos mediante objetos y estructuras de datos en memoria, como listas. No se utilizarán motores de bases de datos.
+
 
 **📂 Organización del repositorio**
 
