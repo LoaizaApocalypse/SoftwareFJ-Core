@@ -2,7 +2,7 @@
 
 <h2 align="center">SoftwareFJ-Core</h2>
 
-<p align="center">Diseño técnico y estructura del sistema | UNAD</p>
+<p align="center">Diseño técnico y estructura del sistema</p>
 
 **1. Introducción**
 
